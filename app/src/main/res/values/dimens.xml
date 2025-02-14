@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="img_height">150dp</dimen>
+    <dimen name="album_name_size">20sp</dimen>
+    <dimen name="bookmark_size">40sp</dimen>
+</resources>
